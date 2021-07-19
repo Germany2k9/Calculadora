@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="btn_txt_suma">Suma</string>
+    <string name="btn_txt_resta">Resta</string>
+    <string name="btn_txt_divide">Divide</string>
+    <string name="btn_txt_multiplica">Multiplica</string>
+    <string name="txt_hint_numero">Escribe aqui un numero</string>
+</resources>
